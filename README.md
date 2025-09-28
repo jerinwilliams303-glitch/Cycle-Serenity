@@ -42,5 +42,41 @@ Built with **Tkinter GUI** and simple data handling using CSV/JSON files, it’s
     bash
     python main_menu.py
 
+## 🚀 Project Structure
+
+- CycleSerenity
+  
+  
+  ├── main_menu.py
+  
+  ├── INPUT_and_EDIT_PERIOD.py
+  
+  ├── insight.py
+  
+  ├── calender.py        
+  
+  ├── mensuration.py     
+  
+  │
+  
+  ├── foto_tubes.jpg
+  
+  ├── bg4.jpg
+  
+  ├── bg5.jpg
+  
+  ├── bg6.jpg
+  
+  │
+  
+  ├── data_input.csv       # input storage
+  
+  ├── mensus_cycle.cse     # store calculated dates
+  
+  ├── duration_of_cycle    # store calculated number of days
+  
+  ├──login_count.json      # store login count
+  
+  └── README.md            # project description
 
 
